@@ -1,0 +1,49 @@
+@prefix schema:    <http://schema.org/> .
+@prefix sd:        <http://www.w3.org/ns/sparql-service-description#> .
+@prefix void:      <http://rdfs.org/ns/void#> .
+@prefix owl:       <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos:      <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:      <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix oplattrib: <http://www.openlinksw.com/schemas/reification#> .
+@prefix prov:      <http://www.w3.org/ns/prov#> .
+@prefix foaf:      <http://xmlns.com/foaf/0.1/> .
+@prefix dcterms:   <http://purl.org/dc/terms/> . 
+@prefix cc:        <http://creativecommons.org/ns#> .
+@prefix xsd:       <http://www.w3.org/2001/XMLSchema#> .
+@prefix :          <#> .
+@prefix source:    <http://www.openlinksw.com/data/turtle/oplweb/LODCloud_SPARQL_Endpoints.ttl> .
+@prefix sourceDAV: <http://www.openlinksw.com/DAV/data/turtle/oplweb/LODCloud_SPARQL_Endpoints.ttl> .
+
+sourceDAV:
+    a                   schema:CreativeWork ;
+    schema:name         "LOD Cloud Knowledge Graph SPARQL Query Services Description"^^xsd:string ;
+    dcterms:format      "text/turtle" ;
+    schema:dateCreated  "2019-12-19T13:00:00-05:00"^^xsd:dateTime ;
+    schema:dateModified "2020-03-17T20:50:00-05:00"^^xsd:dateTime ;
+    schema:author       <http://www.openlinksw.com/#this> ;
+    schema:publisher    <http://www.openlinksw.com/#this> ;
+    schema:license      <http://creativecommons.org/licenses/by/4.0/deed.en_US> ;
+    cc:attributionName  "OpenLink Software" ;
+    owl:sameAs          source: .
+
+source:
+    a                   schema:CreativeWork ;
+    schema:name         "LOD Cloud SPARQL Query Services Description"^^xsd:string ;
+    schema:comment      """RDF-Turtle document that describes a collection of SPARQL Service Endpoints associated with the LOD Cloud Knowledge Graph"""@en ;
+    schema:dateCreated  "2019-12-19T13:00:00-05:00"^^xsd:dateTime ;
+    schema:dateModified "2020-03-17T20:50:00-05:00"^^xsd:dateTime ;
+    schema:author       <http://www.openlinksw.com/#this> ;
+    schema:license      <http://creativecommons.org/licenses/by/4.0/deed.en_US> ;
+    cc:attributionName  "OpenLink Software" ;
+    schema:about        <http://data.nobelprize.org/terms/> .
+
+
+
+<http://data.nobelprize.org/terms/>
+    a                sd:Service ;
+    sd:endpoint      <https://data.nobelprize.org/store/sparql> ;
+    rdfs:label       "Nobel prizes" ;
+    schema:name      "Nobel prizes" ;
+    schema:publisher <http://data.nobelprize.org/> ;
+    schema:url       <https://data.nobelprize.org/store/sparql> .
