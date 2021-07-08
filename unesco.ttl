@@ -1,0 +1,1360 @@
+
+<urn:uuid:fc29bc05-67d4-49fa-9495-c131b04b12d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<http://www.w3.org/2004/02/skos/core#Concept/instance> a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://www.w3.org/2004/02/skos/core#ConceptScheme/instance> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+
+<urn:uuid:a8bfd376-43a9-4d19-b749-1ae2bf7a28d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:170c65d8-1c74-4536-8a66-6f613d21671a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<http://purl.org/iso25964/skos-thes#ConceptGroup/instance> a <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+
+<urn:uuid:3c38ac85-b9cd-4881-925d-f265a6c75c1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<http://www.w3.org/2004/02/skos/core#Collection/instance> a <http://www.w3.org/2004/02/skos/core#Collection> .
+
+<urn:uuid:0d56b906-db6f-4ca5-bae9-7cfdd605d311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<http://vocabularies.unesco.org/ontology#Domain/instance> a <http://vocabularies.unesco.org/ontology#Domain> .
+
+<urn:uuid:28df3da2-6336-45ba-9c3f-1ff658bdce7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:15825e63-1626-4c1f-870e-d1a8f49af17b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:df47dc7d-cae7-44b4-a057-16f98a426a1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:67b5d3df-2a59-4a91-a790-b07b6d36445d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:75b4641a-9985-4c84-a793-7cad8475c783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<http://vocabularies.unesco.org/ontology#MicroThesaurus/instance> a <http://vocabularies.unesco.org/ontology#MicroThesaurus> .
+
+<urn:uuid:525aa1b2-cdfc-406c-bc8c-f6221c49c96e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:a97962e9-324a-4976-aa8e-187aa600dca5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:dcdcbc83-6bee-4f4a-a2e4-0cc5c474c707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:24f98088-0b84-45e9-9c2a-b95efcbd8818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:38a7c8c2-1278-47db-9dc6-4d3f60bc7052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:ece1475c-b8df-472c-9987-ba4574c6a45d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:521cb486-23f8-4eb7-a506-c79287194e8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:fac304a6-52f4-4662-bdff-3bfbb842dfe5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:dacd876f-8429-4142-8db7-a3a1356a783f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:4eba8330-5d58-47b4-a9ad-a58b88b917ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:4117cacc-80cd-4ec5-9f52-64a496ac0551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:8343bfc2-1c4e-4eae-84b1-ea41de4bcca9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:0fa88eed-4c6a-46d2-998e-8055968a4932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:328de3d9-940e-4d58-94a9-e9ac8d15ee7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:c76afa5a-d9da-418a-9706-7cb073ae538b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#inScheme> .
+
+<urn:uuid:294e848e-91ae-4ebb-b052-44d5eb8696d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#hiddenLabel> .
+
+<urn:uuid:4e7b2255-d17a-414c-99d9-8b296cce84f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#hiddenLabel> .
+
+<urn:uuid:e6e438e6-657a-4a85-9149-09074b95b682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#hiddenLabel> .
+
+<urn:uuid:67ef08a3-f919-480c-ab27-41d5efe0f472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#hiddenLabel> .
+
+<urn:uuid:9769d49c-0b3e-400e-8495-5362b9269595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#hiddenLabel> .
+
+<urn:uuid:535924c7-e55f-4cbb-b3cb-0b6dd5e3a8a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#narrower> .
+
+<urn:uuid:d7ab5881-38b8-4428-b97a-83dd90b95a9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#narrower> .
+
+<urn:uuid:d21ec8e5-faf9-40d3-89b1-7b7d9eb51745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#narrower> .
+
+<urn:uuid:9e1e1c13-1975-45ca-8339-aa5872970124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#narrower> .
+
+<urn:uuid:e5da22ee-a5d6-4077-b146-2a7843eab886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#narrower> .
+
+<urn:uuid:bd1370a1-2fa3-4f56-9b35-e1e26c06c362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#related> .
+
+<urn:uuid:2628c51d-0893-4b02-8190-5f1137fd512c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#related> .
+
+<urn:uuid:6c7ecb57-4c13-4826-8889-803e45f226a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#related> .
+
+<urn:uuid:33fdc984-c549-47ec-985c-f814f6de836a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#related> .
+
+<urn:uuid:d2691255-6365-428a-a4bb-4fb2a7f65f0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#related> .
+
+<urn:uuid:bfc783ad-7e3b-4c43-82a1-1c9eee78e206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:500d9480-e1fd-44ce-87be-ffb8e7434a25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:a2f898cd-de03-4a66-8981-f4cf072aa0ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:f148f7c8-7b1c-4b76-959f-e4bd42e500cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:cbcfbd1d-4637-4969-80ba-aa61860df920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:85bd31b6-e62c-4f32-bc01-d5b3e7b4631c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:c6d88816-966c-431c-b756-ef6056dfb962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:b13002db-a4cd-47c0-8e5f-795a14769cd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:4715a971-575e-48ca-97a4-524891120171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:78d6cc26-f374-4cbf-9f1c-fbec4a25dfe8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:f3179283-a711-45b7-a6a6-a0673089ebee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:7275ad38-cbe2-40e5-8442-0359ebe3b2ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:e23ae78b-37ff-42ed-b556-ddf9d536cd36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:e2736433-fc29-45a3-a841-38d8dd81894f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2008/05/skos-xl#Label/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<http://www.w3.org/2008/05/skos-xl#Label/instance> a <http://www.w3.org/2008/05/skos-xl#Label> .
+
+<urn:uuid:8fc0a67e-dec8-4a6e-b395-473da10a227e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:559ace68-9f40-4120-89ad-d92dabf3ad6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:76ef48d3-8960-46ca-8f76-3703ec0f1e2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:902613ac-8c88-4da7-8a7a-3180c3ad261d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:e666312e-c268-4ed7-b5ba-161a09d3187c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:b81a6948-4732-4625-b00d-c0ec3ad1a158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:75721dfc-cfc8-4b73-bae6-f5986cfb9a69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:2ea85a07-58df-4001-997f-cc114788d1a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:38ab1d15-d5cc-4f87-bef2-1727b85c63e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:fc6ad327-07d7-441c-9a44-94ec505f8f4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:917725da-a4ec-4b6d-ba18-5a5fa884cf55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:2c116061-aba6-4e61-84fa-d395649247e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:6e78e30d-fffc-4df3-bcce-9a625cbc8596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/modified> .
+
+<urn:uuid:cffca5ef-ba54-4850-95fd-e26da75b1486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:eaf78186-711e-46d6-b44a-acb5c8fbd1bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:f6c23eef-a165-411e-b16f-b9e24d65a630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:e7dd5915-011b-4a55-b071-629b44e4f665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:0953c256-1732-48eb-8579-88f62a5864cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:30e25454-a0ea-41ac-879e-41113dd5a3c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:67c9dba1-edcc-46f2-bf53-1041ed721eff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:d08d27cf-fc76-4074-b4d9-90aaf3d3c535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:f8ee53ac-5e2b-4d30-870d-98a540182718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:06822174-f8fd-47e1-b007-4a1e65756d0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:501bcebd-564f-4e44-ab0f-9a47ce6ea764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:a2a83a4b-b421-4470-8962-4496d1615739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:3361898e-bc01-417d-9575-ee27099e911b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:054f9110-3819-4506-87a6-e595e6a41737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:e1d7c476-86dd-48b3-9afc-d3a6ff34d33e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:758a5228-63c0-452b-8e46-cb0f645d7f54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:c007f957-a31d-4fc7-90b0-a117302b978f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:f971af36-cf5c-4b9e-86d5-0c4cf071776a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:cc7d0f5e-c3bf-45e9-8053-19325fa65780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:683ba41b-6d0e-4941-ae19-6fa0262669a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:c2cb8778-6030-4578-a301-ee54caa8ad4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:e7364067-4b8c-4863-81c5-8fec0e6f035a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:7fb8dad8-f0a1-4dbd-b566-ccd20fb581f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:34ad2c89-6251-4800-8fcd-54a4aab27470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:29b2839e-424e-473c-aa08-e048fe668db1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:d3b30934-16fd-44e8-94a8-b75ee8f2901e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+<urn:uuid:0ce8426b-b558-4ec0-961e-f0d869f24f1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#topConceptOf> .
+
+<urn:uuid:be644765-4ed9-4507-8c84-7a07e82e775d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#topConceptOf> .
+
+<urn:uuid:225aef4f-2a84-4ed4-93ad-853be408435c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#topConceptOf> .
+
+<urn:uuid:01be9932-3c13-4cf1-908c-055c45fb8de3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#topConceptOf> .
+
+<urn:uuid:8cff390b-aac6-4fd3-a997-b557aaee244f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#topConceptOf> .
+
+<urn:uuid:295dc967-3a88-4cab-9c02-4e4780e002bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:f26e9037-9597-42b1-b749-e323e98618c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:79afa589-fc84-46df-86fa-108396e48ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:92f03b74-f0d1-4f37-bdd1-c5f77ce7d089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:b5dc28e5-cc96-4f9d-b114-cf98d6d545ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:1a9e4589-2d91-4571-8481-2716c0934afd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:3e22297d-d902-41c4-bef8-3a10c9ed2695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:649b2135-8b21-4b20-a92e-1ef019f8aba5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:ac030083-5781-4ca3-8921-4b51e22906f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:3d67cecc-c875-4857-acc4-76179d156179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:93360287-70ba-457b-9089-17e974981444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:4dfe02b0-67fb-4a9b-8590-cb17e70d9d9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:0fe2eef2-0265-499b-916d-43bee3a0f47a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#altLabel> .
+
+<urn:uuid:2a6a36be-5b47-463b-96fc-5fe7ebef93a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#subClassOf> .
+
+<http://www.w3.org/2002/07/owl#Class/instance> a <http://www.w3.org/2002/07/owl#Class> .
+
+<urn:uuid:8d5524b6-bb50-4d4a-a6c7-149227771513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#subClassOf> .
+
+<urn:uuid:00e590eb-75e8-461b-be67-144ea4620d9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#label> .
+
+<urn:uuid:36c93bab-1fa8-42bc-878d-2b5bdff0c96e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#label> .
+
+<http://www.w3.org/2002/07/owl#DatatypeProperty/instance> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+
+<urn:uuid:1196c109-6cf1-4c88-979f-3cafc03c5390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#label> .
+
+<urn:uuid:f3d05d9f-e46f-48f3-90b5-d5808b87d144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#label> .
+
+<urn:uuid:01cc20c9-0a17-44b8-9d62-271f60f63b74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#Ontology/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#label> .
+
+<http://www.w3.org/2002/07/owl#Ontology/instance> a <http://www.w3.org/2002/07/owl#Ontology> .
+
+<urn:uuid:2eaef03f-e887-4405-baec-11ac74ffab9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#label> .
+
+<urn:uuid:bb43958c-d021-438b-9c22-0e30258a25ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:457e0f34-07f7-4d1a-8d20-f9068a44a638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:e20cf030-cfc8-4bbc-9182-4dc3b131474c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:1172d0dd-4ae4-40d2-a9a2-f37bfbcfef23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:fd40450b-42d2-461c-b89a-f022a73600f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:a9a5a093-cc6a-4a04-8141-cd95a2eecfb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:810fe009-6b3f-401f-b542-93bd505b5ade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:18d60763-1cab-47f5-9513-85821eff029e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:c7e754a7-1e42-4c29-b7bb-612a2981e3c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:3a8c2a81-db93-4cb7-9efd-b6f8e781ea35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:d6555baf-8149-4543-9ea9-1200924616f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:2239617b-a1c2-4962-9efa-0d5fff7a452f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:3182eab9-cc00-48c1-80a2-509d7130768f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:179e8564-390c-4d4f-ba30-83ea54f821cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:8e2f890b-bac0-47c5-b6b6-15949b869841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:0a8d4e44-1fbd-4445-a132-51692a64e348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:0807a778-979c-40ea-bfea-dde43359230c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:9c07aba9-64be-471e-a959-11e8034f8708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:3530185f-ba31-415a-b1c4-90f8606c7cfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:e539753c-1b73-4115-a0b7-4f699ab377d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:489341fb-1c99-459d-8a24-a4365d2068d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:de04473e-b36c-472e-a881-c3bd623375e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:d49c8761-6499-48b4-bd8d-69a25743fc63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:b9a41493-e7e7-4f10-af5b-61ef8a6d231f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:160da4c8-f166-4a70-ae0f-a47ec988b587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:3a6913f6-aec3-48a2-b239-57c6b3c6e3d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:46091470-efc9-4471-8227-af1bf9b2dc42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:c585340f-f969-43b2-8432-c1d7a6e5aba5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:9eb6fc56-d74a-44b4-8002-d750dfb66cb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:5b1a934d-576f-4d5f-aab2-2332808fcef2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:51af7c09-c249-4cfd-be43-6c334a476cfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:05f8998c-673d-4cfb-b270-8c8390285566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:0f3382fc-b096-471c-b1b6-fa64dfe55b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:db4aa648-bd25-4f87-96e6-722bef332f6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:df4e9b87-8fc5-423b-ba9c-1ce4486e8dbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:eb2dd7dc-1052-4c03-bd75-e0ff97fb0b56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:33d928b0-9881-4773-9edb-b8e5f0bcbbca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:dc525e98-7cac-4513-9552-040c019ea139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:362bb5d4-6912-4922-9bee-f1d85059c034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#superGroup> .
+
+<urn:uuid:f002a499-917a-4d3d-a20d-1cce99a20ec9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:3432344e-cda5-4b73-9764-108268afa846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:0ed2dfa2-617a-4a89-8a74-969bfafa9c2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:d7f885a3-ba86-4a7e-97e5-da4d2c12a5e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:4386f828-02db-486a-bdcd-06ad9ce795c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:a14efdd1-a354-4bbf-9a35-9ac22855a837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:a5c0ad38-9385-436f-a093-4871139e1bd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:56db4af2-66c9-4b3b-a74c-238c4cc09921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:bb0bdbc3-4bee-4468-abad-8a76554cc3c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:265f9868-4288-4585-b78f-9b1b6e5aec10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:2fe2786c-9e5b-4b6e-823e-a83de6908a4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:5e1f1cc1-a64e-44d7-b20f-e10a62481ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:ff3b82e7-e4c0-4539-881c-38f261b38fdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:d7159752-289a-4c8c-adf7-7db2a55ae1cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:e2cfab86-e562-411e-ac07-6ef48df30fae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:3381446f-81cb-4e44-a5f9-259e14a73e26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:a56c9356-dd5a-42f9-989b-efb26b45bf68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:2d59f4f4-350a-47a6-ad2e-947f85a27005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:7bb2da2a-09e3-4f5d-95c9-bd4ade30e964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:b98afb09-8ae8-4aa0-befa-7c25e9733897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#notation> .
+
+<urn:uuid:00dc72a7-60b0-45e9-8d90-8fb9d154f80a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:c2e00919-118d-4f1d-8214-0190fd7a0276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:80486503-b4a7-4367-983f-cadb3dfba8a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:441682b0-560e-483a-8642-02825f30bf41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:39535aba-ef80-40ce-8441-42c51260746f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:03851086-d5ea-4356-a6c1-d3d9557cc56c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:7ca7ea07-f560-4ca1-ba30-dca3720e7e6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:e9ca7cf7-f508-453f-8d36-3480c0ea3d5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:da0ecc26-b032-42fd-8dbd-6a01500f8efe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:7638e517-9359-465a-bf0a-1ec862c08b36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:59c88c51-82f5-4fea-ae4f-c93602db33d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:efd90d24-88b4-448c-9cf4-49d7d33eb6b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:7a1e9edc-6a8b-4653-ad65-e40b19732fcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:b8828fb1-3510-45a1-925e-1fe348cdc794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:a0792fe4-b63a-44d5-9a4f-c71b3227c739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:43fde0bb-9b1b-4920-b110-9216e43cc5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:220cce3c-6367-41b0-982a-fff02ec5a99a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:e3fdb175-e00e-47bc-9d71-a532cd4c0167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:9c042e6b-4812-48a0-b217-6ead8705b70f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:cb236fb3-9fa5-446c-b90c-41c95cfb1c3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:d9234051-9f1b-4302-a3a6-f5675a0ed885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:4e8a6e3e-2807-4916-973a-39456722dd9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:c3df7ba2-e7b3-4fc4-bbf8-229b1d27dfe8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:3f835aea-a256-405d-b58b-70eea3d33679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:267da49a-e9ce-47fe-a767-59aaad216bb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:7b0e9054-aa50-4e8e-b9a1-380f164a702e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:9579c54f-8df8-443a-91e5-a5e174075751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:5e0149d8-43de-4e96-9b19-a56873507ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:15db4246-d70a-45a8-9f51-7cbebe221547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:516cac3c-6ad4-47d9-b8ef-5a7a76b9f3c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:c18e6e21-a077-4585-9cc8-141fcb891c10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:5b29eaca-fcd5-416f-b150-faa2b67e53ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:3b2c3753-798e-46f3-b915-776df6661c90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:64386319-ff5a-4978-9836-bfedae7bed3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#member> .
+
+<urn:uuid:b3aab30f-fadb-4297-b02a-58b8463238bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/elements/1.1/subject> .
+
+<urn:uuid:cae4613f-98d9-497c-9f93-b4f8a415284d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Concept/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2004/02/skos/core#hasTopConcept> .
+
+<urn:uuid:6bc02f99-3fff-4b4f-a349-74ad6d14f18c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/identifier> .
+
+<urn:uuid:70bcacfe-eae6-48f1-a064-76d6a24ea507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/subject> .
+
+<urn:uuid:21b38cbe-9d1b-4688-9b32-deb0e96f2d0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/elements/1.1/creator> .
+
+<urn:uuid:5b0fff39-7600-4002-b3bf-a1e20fefd69b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/license> .
+
+<urn:uuid:4edde94d-76ef-4f20-9d31-0bad71a64c0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/source> .
+
+<urn:uuid:5e10678b-5c46-4800-ba08-50eca8f94928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/rights> .
+
+<urn:uuid:8bd9267a-2d5b-47ec-a8d2-49ee4fd32f6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/type> .
+
+<urn:uuid:b417136f-c596-4855-ab48-fcd0323102a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/rightsHolder> .
+
+<urn:uuid:59712ce3-e407-40b6-ad1e-eb1bef9f90e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/replaces> .
+
+<urn:uuid:0968fc5c-ac75-4fa7-a5bc-9653d0214d2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/elements/1.1/publisher> .
+
+<urn:uuid:a71e9c40-f5a3-4cbf-bf07-c83538044c9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/description> .
+
+<urn:uuid:13514a3a-8a28-49d8-b2bf-1e134f32ceca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/elements/1.1/contributor> .
+
+<urn:uuid:005f6fbf-061f-4ccf-99f0-c05ff4ecece7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/isRequiredBy> .
+
+<urn:uuid:65ff6a82-f7a4-4f4b-bc4e-062284b67237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/created> .
+
+<urn:uuid:fb425bf8-bef3-4f97-9c02-bffd98556094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2008/05/skos-xl#Label/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/created> .
+
+<urn:uuid:2475c77f-78ac-4078-9e4b-73eab438216c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/language> .
+
+<urn:uuid:d4709fab-be6f-4e40-8eef-054eae18d4e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/format> .
+
+<urn:uuid:14ddbbef-f100-4e53-aae7-3ef635faee31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/conformsTo> .
+
+<urn:uuid:38851e40-9e7d-4443-a825-49790c4afe7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#ConceptScheme/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/title> .
+
+<urn:uuid:178813e7-a7d5-4c76-954f-d4b0604cc53f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:c9a30010-82b1-4169-a597-53eb812c549f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:d44996c3-49af-4313-b68b-f27c42d48dbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:04c7805f-a23b-421f-8214-a874d3d6f84f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:319b431c-2f8c-401c-bd90-db61869b3d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:1181e2bb-70b6-4959-a9f7-2398f328ddbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:93cea5ff-7093-46d8-a990-91a40e044011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:89b1db57-594b-4502-9315-022e1c9963f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:296b5782-f354-415c-8ca4-f2064245c5d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:838f4c9e-2023-4c19-b3a5-01ddd825c1f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:17f37408-6927-46bc-ae0c-afbb17642bc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:6fac2a66-311e-402c-a1ed-ded0617100f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:44de4207-4760-4b91-a141-56ccfecdb854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:5aa3fa20-3f83-4a6c-b661-d607506341cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:0ddb4652-116b-400c-93cf-a1e15cf9a54a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:f542d079-5dc2-48e8-b263-2a11126220f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:ffcb234d-2c65-4b60-b7fe-0c11c7bc4d29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:93e5a562-263c-4cb3-bd38-d40e3e8f32f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:ebebd4cf-04f9-419f-ab26-4c11c4c3f332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2004/02/skos/core#Collection/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:a80a57eb-29a4-46b4-b412-97904a57bad8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://vocabularies.unesco.org/ontology#MicroThesaurus/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:1cd35f77-ff7a-4315-908e-6430f5231bab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://vocabularies.unesco.org/ontology#Domain/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://purl.org/iso25964/skos-thes#ConceptGroup/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/iso25964/skos-thes#subGroup> .
+
+<urn:uuid:52b05163-8d30-4b15-ac70-f7a3294f4b83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#seeAlso> .
+
+<urn:uuid:218d82a7-094b-4b42-a6bd-38475ffeac74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#seeAlso> .
+
+<urn:uuid:9ca25f5d-ee1b-4093-9aa5-e6b25ec4a3bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#seeAlso> .
+
+<urn:uuid:45a14bf3-66f1-41dc-be9a-45d93cb70b42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#domain> .
+
+<urn:uuid:81863bdf-b031-4e09-9384-9795fa491fe5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#domain> .
+
+<urn:uuid:0528ed69-8dda-452b-909e-dbd19ac1364d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/2002/07/owl#Class/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#domain> .
+
+<urn:uuid:520b15ae-e75c-4256-93ed-afc303dfb93e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#range> .
+
+<urn:uuid:a4abdf36-1142-43a7-8c75-4022609bbc23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#range> .
+
+<urn:uuid:638689da-04d4-4095-92ee-228617c94034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#range> .
+
+<urn:uuid:e67559e6-3dea-4471-9175-53267f85962a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#comment> .
+
+<urn:uuid:5765716e-435c-445c-b101-c2cf8af49abf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#comment> .
+
+<urn:uuid:edf38ab4-3dd6-4639-a860-4c5bc88bd627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#DatatypeProperty/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2000/01/rdf-schema#comment> .
+
+<urn:uuid:082d05ab-8a93-4931-afc6-1a9a15d9b20e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2008/05/skos-xl#Label/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2008/05/skos-xl#literalForm> .
+
+<urn:uuid:0a49d001-9ea4-4e25-843b-d12058a99ff5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject>
+    <http://www.w3.org/2002/07/owl#Ontology/instance>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Literal>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://www.w3.org/2002/07/owl#imports> .
